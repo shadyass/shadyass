@@ -19,3 +19,9 @@ I'm a passionate web developer focused on creating responsive, user-friendly web
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+## 📈 GitHub Stats
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shadyass&theme=dracula)](https://github.com/shadyass/github-readme-activity-graph)
+
+![Sergey GitHub stats](https://github-readme-stats.vercel.app/api?username=shadyass&show_icons=true&theme=radical)
