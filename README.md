@@ -2,29 +2,20 @@
     alt="Helping people make the world a better place through quality software"
     src="https://github.com/shadyass/shadyass/blob/main/image.png"
   />
-  <h1 align="center">My GitHub Profile README
-----
 
-![languages](https://img.shields.io/static/v1?label=&message=languages:&color=111&style=flat-square)
-![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=36465D&logoColor=AAA&style=flat-square&link=)
-![go](https://img.shields.io/static/v1?logo=go&label=&message=golang&color=36465D&logoColor=AAA&style=flat-square)
-![ruby](https://img.shields.io/static/v1?logo=ruby&label=&message=ruby&color=36465D&logoColor=AAA&style=flat-square)
-![scala](https://img.shields.io/static/v1?logo=scala&label=&message=scala&color=36465D&logoColor=AAA&style=flat-square)
-&nbsp;&nbsp;&nbsp;
-![tools](https://img.shields.io/static/v1?label=&message=tools:&color=111&style=flat-square)
-![kubernetes](https://img.shields.io/static/v1?logo=kubernetes&label=&message=kubernetes&color=36465D&logoColor=AAA&style=flat-square)
-![docker](https://img.shields.io/static/v1?logo=docker&label=&message=docker&color=36465D&logoColor=AAA&style=flat-square)
-![spark](https://img.shields.io/static/v1?logo=apache-spark&label=&message=spark&color=36465D&logoColor=AAA&style=flat-square)
-![vim](https://img.shields.io/static/v1?logo=vim&label=&message=vim&color=36465D&logoColor=AAA&style=flat-square)
-![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=36465D&logoColor=AAA&style=flat-square)
-&nbsp;&nbsp;&nbsp;
-![worksat](https://img.shields.io/static/v1?label=&message=@:&color=111&style=flat-square)
-![adobe](https://img.shields.io/static/v1?logo=adobe&label=&message=adobe&color=111&logoColor=FF0000&style=flat-square)
+# 👋 Hello, I'm Sergey Malyshev
 
+## 💻 Web Developer | React Specialist
 
-<a href="https://github.com/shadyass/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/shadyass/awesome-github-profile-readme" alt="Stars Badge"/></a>
-<a href="https://github.com/shadyass/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/shadyass/awesome-github-profile-readme" alt="Forks Badge"/></a>
-<a href="https://github.com/shadyass/awesome-github-profile-readme/pulls"><img src="https://img.shields.io/github/issues-pr/shadyass/awesome-github-profile-readme" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/shadyass/awesome-github-profile-readme/issues"><img src="https://img.shields.io/github/issues/shadyass/awesome-github-profile-readme" alt="Issues Badge"/></a>
-<a href="https://github.com/shadyass/awesome-github-profile-readme/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/shadyass/awesome-github-profile-readme?color=2b9348"></a>
-<a href="https://github.com/shadyass/awesome-github-profile-readme/blob/master/LICENSE"><img src="https://img.shields.io/github/license/shadyass/awesome-github-profile-readme?color=2b9348" alt="License Badge"/></a>
+I'm a passionate web developer focused on creating responsive, user-friendly web applications with modern technologies.
+
+## 🛠️ Skills & Technologies
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
